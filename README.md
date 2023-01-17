@@ -43,9 +43,15 @@
     
    ## Personal situation
    Each member of the team expressed that he wants to further improve the code and the quality of the datafields. 
-   ## Analysis
-   >The project continues with analysing the contents of the data. There are many different tools to visualize the different fields of the dataset. Different libraries are used to plot the number columns and summarize the values. One can select only a subset of the whole dataset.
-    
+   ## Immo Data Analysis
+   In this project, I worked with my team to scrape data from a real estate website. Since we scraped West Flanders cities, I got the idea to compare prices of cities located on the coast of Belgium.
+
+This application removes currency symbols in the data. 
+Then it does a comparison of the average prices of 4 cities on the coast of Belgium and the median of the chosen cities.
+Both comparisons are displayed in graph-form.
+
+To run the application you'll need to install the following modules: Pandas, Matplotlib and Csv. 
+
     
     
     
